@@ -4,7 +4,7 @@
     <div class="par">
         <p>
         <h4></h4>
-        I am currently working with developing a longitudinal controller for cars to be used in ADAS functions and in future autonomous vehicles.
+        I am currently working motion controllers and planning for comfort to be used in ADAS functions and future AD features in Volvo cars.
 
         </p>
     </div>

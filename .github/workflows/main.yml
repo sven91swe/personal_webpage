@@ -15,4 +15,3 @@ jobs:
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
         local-dir: webpage/
-        dryrun: true
