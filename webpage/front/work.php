@@ -6,8 +6,8 @@
         <h4>Development Engineer, 2020/06 - </h4>
         <h5>Zenseact, Gothenburg, Sweden</h5>
         Developing comfort focused controllers and path planning for cars to be used within ADAS features and for future autonomous vehicles. I am also participating in activities to improve workflow and software quality within the company.
-        <br><br>Local union representative (Akademikerföreningen / SACO) 2019/11 -. Within this role I represent our members in local negotiations, participate in recruitment of managers, and take part in other discussions with the employer.
-        <br>Employee representative on the Zenseact Board of Directors 2020/10 -
+        <p>Local union representative (Akademikerföreningen / SACO) 2019/11 -. Within this role I represent our members in local negotiations, participate in recruitment of managers, and take part in other discussions with the employer.</p>
+        <p>Employee representative on the Zenseact Board of Directors 2020/10 -</p>
     </div>
 </div>
 
@@ -18,8 +18,8 @@
     <div class="par">
         <h4>Development Engineer, 2018/05 - 2020/06 </h4>
         <h5>Zenuity, Gothenburg, Sweden</h5>
-        Developing a longitudinal controller for cars to be used within ADAS functions and for future autonomous vehicles.
-        <br><br>Zenuity was split between its owners during the summer of 2020 and I continued to work for the part that became Zenseact.
+        <p>Developing a longitudinal controller for cars to be used within ADAS functions and for future autonomous vehicles.</p>
+        <p>Zenuity was split between its owners during the summer of 2020 and I continued to work for the part that became Zenseact.</p>
     </div>
 </div>
 
@@ -78,30 +78,10 @@
         <img src="front/sodra-skogsagarna-400x400.png" width="150">
     </div>
     <div class="par">
-        <h4>Machine Operator, summer of 2010</h4>
-        <h5>Södra Cell Värö, Varberg, Sweden</h5>
-        Production, and some maintenance. Worked in groups of 4 to 5 people. I did work during the morning, afternoon, and night shift.
-    </div>
-</div>
-
-<div class="entry">
-    <div class="image">
-        <img src="front/sodra-skogsagarna-400x400.png" width="150">
-    </div>
-    <div class="par">
-        <h4>Laboratory assistant, summer of 2009</h4>
-        <h5>Södra Innovation, Varberg, Sweden</h5>
-        Tested the quality of paper pulp.
-    </div>
-</div>
-
-<div class="entry">
-    <div class="image">
-        <img src="front/sodra-skogsagarna-400x400.png" width="150">
-    </div>
-    <div class="par">
-        <h4>In building maintenance, summer of 2008</h4>
-        <h5>Södra Cell Värö, Varberg, Sweden</h5>
-        Different tasks related to building and machine maintenance.
+        <h4>Summer jobs, summers of 2010, 2009, 2008</h4>
+        <h5>Södra, Varberg, Sweden</h5>
+        <p>2010 - Södra Cell Värö: Machine Operator</p>
+        <p>2009 - Södra Innovation: Laboratory assistant</p>
+        <p>2008 - Södra Cell Värö: Building maintenance</p>
     </div>
 </div>
