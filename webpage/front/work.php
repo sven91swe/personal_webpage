@@ -1,11 +1,25 @@
 <div class="entry">
     <div class="image">
+        <img src="front/zenseact.jpg" height=auto width="150">
+    </div>
+    <div class="par">
+        <h4>Development Engineer, 2020/06 - </h4>
+        <h5>Zenseact, Gothenburg, Sweden</h5>
+        Developing comfort focused controllers and path planning for cars to be used within ADAS features and for future autonomous vehicles. I am also participating in activities to improve workflow and software quality within the company.
+        <br><br>Local union representative (Akademikerföreningen / SACO) 2019/11-. Within this role I represent our members in local negotiations, participate in recruitment of managers, and take part in other discussions with the employer.
+        <br>Employee representative on the Zenseact Board of Directors 2020/10-
+    </div>
+</div>
+
+<div class="entry">
+    <div class="image">
         <img src="front/zenuity.png" height=auto width="150">
     </div>
     <div class="par">
-        <h4>Development Engineer, 2018/05 - </h4>
+        <h4>Development Engineer, 2018/05 - 2020/06 </h4>
         <h5>Zenuity, Gothenburg, Sweden</h5>
         Developing a longitudinal controller for cars to be used within ADAS functions and for future autonomous vehicles.
+        <br><br>Zenuity was split between its owners during the summer of 2020 and I continued to work for the part that became Zenseact.
     </div>
 </div>
 
