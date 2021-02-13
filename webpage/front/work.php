@@ -6,8 +6,8 @@
         <h4>Development Engineer, 2020/06 - </h4>
         <h5>Zenseact, Gothenburg, Sweden</h5>
         Developing comfort focused controllers and path planning for cars to be used within ADAS features and for future autonomous vehicles. I am also participating in activities to improve workflow and software quality within the company.
-        <br><br>Local union representative (Akademikerföreningen / SACO) 2019/11-. Within this role I represent our members in local negotiations, participate in recruitment of managers, and take part in other discussions with the employer.
-        <br>Employee representative on the Zenseact Board of Directors 2020/10-
+        <br><br>Local union representative (Akademikerföreningen / SACO) 2019/11 -. Within this role I represent our members in local negotiations, participate in recruitment of managers, and take part in other discussions with the employer.
+        <br>Employee representative on the Zenseact Board of Directors 2020/10 -
     </div>
 </div>
 
