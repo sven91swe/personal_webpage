@@ -17,7 +17,7 @@
         <p>
         <h4>Resume / CV</h4>
         </p>
-        <p><a href="https://www.dropbox.com/s/eisqlfeszhu6ng8/cv_eng.pdf?raw=1">English</a> (last updated 2018-12, should be currently up to date)</p>
+        <p><a href="https://www.dropbox.com/s/eisqlfeszhu6ng8/cv_eng.pdf?raw=1">English</a> (last updated 2021-01, should be currently up to date)</p>
         </p>
     </div>
 </div>

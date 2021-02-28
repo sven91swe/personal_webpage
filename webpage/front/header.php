@@ -13,7 +13,7 @@
 <div id="container">
 
     <header>
-        <img id="foto-header" src="front/webb2.JPG" width="150">
+        <img id="foto-header" src="front/symbol/web_image_sven.JPG" width="150">
         <h1>Sven Eriksson</h1>
         <h3>An engineer with an interest in autonomous vehicles and in making machines smarter</h3>
     </header>

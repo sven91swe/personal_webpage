@@ -1,18 +1,18 @@
 <div class="entry">
     <div class="image">
-        <img src="http://www.cse.chalmers.se/swat2008/images/chalmers_logo_v.jpg" height="150" width="150">
+        <img src="front/symbol/chalmers.jpg" height="150" width="150">
     </div>
     <div class="par">
         <h4>Master Thesis, 2016</h4>
         <h5>Real-time kinematic positioning of UAS, Chalmers University of Technology, Gothenburg, Sweden</h5>
         Master Thesis that focused on testing and system integration of Emlid Reach. Emlid Reach are cheap RTK capable GNSS receivers. The thesis is closely related to my summer job at Chalmers 2016.
-        <a href="front/master_ErikssonSven.pdf">Link</a>
+        <a href="front/documents/master_ErikssonSven.pdf">Link</a>
     </div>
 </div>
 
 <div class="entry">
     <div class="image">
-        <img src="front/suave.png" height="150" width="150">
+        <img src="front/symbol/suave.png" height="150" width="150">
     </div>
     <div class="par">
         <h4>Society of Unmanned Aerial Vehicle Engineering / Titan UAV, 2014/2015</h4>
@@ -23,7 +23,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="front/spexlogga.png" height="150" width="150">
+        <img src="front/symbol/fspexet.png" height="150" width="150">
     </div>
     <div class="par">
         <h4>F-spexet, 2011-2014</h4>
@@ -34,13 +34,13 @@
 
 <div class="entry">
     <div class="image">
-        <img src="http://www.cse.chalmers.se/swat2008/images/chalmers_logo_v.jpg" height="150" width="150">
+        <img src="front/symbol/chalmers.jpg" height="150" width="150">
     </div>
     <div class="par">
         <h4>Bachelor Thesis, 2013</h4>
         <h5>Wireless Transmission of HDMI signals, Chalmers University of Technology, Gothenburg, Sweden</h5>
         Bachelor Thesis that focused on the serialization of HDMI signals in order to transmit video over a radio with a serial interface. Use of FPGAs from Xilinx. Done in cooperation with two other students.
-        <a href="front/bachelor_thesis_Eriksson_Sven.pdf">Link</a>
+        <a href="front/documents/bachelor_ErikssonSven.pdf">Link</a>
     </div>
 </div>
 

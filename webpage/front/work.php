@@ -1,6 +1,6 @@
 <div class="entry">
     <div class="image">
-        <img src="front/zenseact.jpg" height=auto width="150">
+        <img src="front/symbol/zenseact.jpg" height=auto width="150">
     </div>
     <div class="par">
         <h4>Development Engineer, 2020/06 - </h4>
@@ -13,7 +13,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="front/zenuity.png" height=auto width="150">
+        <img src="front/symbol/zenuity.png" height=auto width="150">
     </div>
     <div class="par">
         <h4>Development Engineer, 2018/05 - 2020/06 </h4>
@@ -25,7 +25,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="front/combitech.jpg" height=auto width="150">
+        <img src="front/symbol/combitech.jpg" height=auto width="150">
     </div>
     <div class="par">
         <h4>System Developer, 2017/12 - 2018/04</h4>
@@ -37,7 +37,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="front/Nevs_Wordmark_Black.png" height=auto width="150">
+        <img src="front/symbol/nevs.png" height=auto width="150">
     </div>
     <div class="par">
         <h4>Vehicle motion engineer, 2017/01 - 2017/11</h4>
@@ -51,7 +51,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="http://www.cse.chalmers.se/swat2008/images/chalmers_logo_v.jpg" height=auto width="150">
+        <img src="front/symbol/chalmers.jpg" height=auto width="150">
     </div>
     <div class="par">
         <h4>Design and assembly of hexacopter, summer of 2016</h4>
@@ -64,7 +64,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="front/SKF_logo.png" width="150">
+        <img src="front/symbol/skf.png" width="150">
     </div>
     <div class="par">
         <h4>Machine Operator, summers of 2014, 2013, 2012, and 2011</h4>
@@ -75,7 +75,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="front/sodra-skogsagarna-400x400.png" width="150">
+        <img src="front/symbol/sodra.png" width="150">
     </div>
     <div class="par">
         <h4>Summer jobs, summers of 2010, 2009, 2008</h4>

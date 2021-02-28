@@ -1,6 +1,6 @@
 <div class="entry">
     <div class="image">
-        <img src="front/chalmers_logo.jpg" height="150" width="150">
+        <img src="front/symbol/chalmers.jpg" height="150" width="150">
     </div>
     <div class="par">
         <h4>Complex Adaptive System, 2013-2016</h4>
@@ -11,7 +11,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="front/chalmers_logo.jpg" height="150" width="150">
+        <img src="front/symbol/chalmers.jpg" height="150" width="150">
     </div>
     <div class="par">
         <h4>Engineering Physics, 2010-2016</h4>
@@ -34,7 +34,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="front/csuf-seal.png" height="150" width="150">
+        <img src="front/symbol/csuf.png" height="150" width="150">
     </div>
     <div class="par">
         <h4>University Semester Abroad, 2014/2015</h4>
