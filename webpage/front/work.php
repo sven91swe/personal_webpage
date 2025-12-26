@@ -1,13 +1,34 @@
 <div class="entry">
     <div class="image">
-        <img src="front/symbol/zenseact.jpg" height=auto width="150">
+        <img src="front/symbol/zenseact.png" height=auto width="150">
     </div>
     <div class="par">
-        <h4>Development Engineer, 2020/06 - </h4>
+        <h4>Domain architect, V&V, 2025/03 - </h4>
         <h5>Zenseact, Gothenburg, Sweden</h5>
-        Developing comfort focused controllers and path planning for cars to be used within ADAS features and for future autonomous vehicles. I am also participating in activities to improve workflow and software quality within the company.
-        <p>Local union representative (Akademikerföreningen / SACO) 2019/11 -. Within this role I represent our members in local negotiations, participate in recruitment of managers, and take part in other discussions with the employer.</p>
-        <p>Employee representative on the Zenseact Board of Directors 2020/10 -</p>
+        <p>Domain architect within the area of verification and validation, mainly focusing on functional requirement fulfillment, overall performance, and SOTIF goals related to performance. Not so much on functional safety or integration.
+    </div>
+</div>
+
+<div class="entry">
+    <div class="image">
+        <img src="front/symbol/zenseact.png" height=auto width="150">
+    </div>
+    <div class="par">
+        <h4>Union representative, 2019/11 - </h4>
+        <h5>Zenseact, Gothenburg, Sweden</h5>
+        <p>2019/11 -: Local union representative for Akademikerföreningen / SACO at Zenseact. Serving as chairman of the local union club since 2022. Within this role I represent our members in local negotiations, participate in recruitment of managers, and take part in other discussions with the employer.</p>
+        <p>2020/10 -: Employee representative on the Zenseact Board of Directors </p>
+    </div>
+</div>
+
+<div class="entry">
+    <div class="image">
+        <img src="front/symbol/zenseact.png" height=auto width="150">
+    </div>
+    <div class="par">
+        <h4>Development Engineer, 2020/06 - 2025/03 </h4>
+        <h5>Zenseact, Gothenburg, Sweden</h5>
+        <p>Developed comfort focused controllers and path planning for cars to be used within ADAS features and for future autonomous vehicles. Also contributed in activities to improve workflow and software quality within the company. </p>
     </div>
 </div>
 
