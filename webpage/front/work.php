@@ -5,7 +5,8 @@
     <div class="par">
         <h4>Domain architect, V&V, 2025/03 - </h4>
         <h5>Zenseact, Gothenburg, Sweden</h5>
-        <p>Domain architect within the area of verification and validation, mainly focusing on functional requirement fulfillment, overall performance, and SOTIF goals related to performance. Less on functional safety or SW/HW integration topics.
+        <p>Domain architect within the area of verification and validation, mainly focusing on functional requirement fulfillment, overall performance, and SOTIF goals related to performance. Less on functional safety or SW/HW integration topics. </p>
+        <p>Supporting and guiding multiple teams regarding which methods Zenseact should apply for an efficient V&V methodology. Collaborating with other architects to adapt the product architecture, product specification, and the V&V solution to each other.</p>
     </div>
 </div>
 
