@@ -22,7 +22,7 @@
 
 <div class="entry">
     <div class="image">
-        <img src="http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/themes/udacity_wp_1_8/images/Udacity_Logo_SVG_200x35.svg" height=auto width="150">
+        <img src="front/symbol/udacity.svg" height=auto width="150">
     </div>
     <div class="par">
         <h4>Self-driving car engineer nanodegree, 2017</h4>

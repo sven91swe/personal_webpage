@@ -5,7 +5,7 @@
     <div class="par">
         <h4>Domain architect, V&V, 2025/03 - </h4>
         <h5>Zenseact, Gothenburg, Sweden</h5>
-        <p>Domain architect within the area of verification and validation, mainly focusing on functional requirement fulfillment, overall performance, and SOTIF goals related to performance. Not so much on functional safety or integration.
+        <p>Domain architect within the area of verification and validation, mainly focusing on functional requirement fulfillment, overall performance, and SOTIF goals related to performance. Less on functional safety or SW/HW integration topics.
     </div>
 </div>
 
